@@ -44,6 +44,8 @@
 
 **Approaches** to Software Design. It's include 3 aspects: method, representational, and validation.
 
+**Design Documentation** is key concept in Software Design.
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
