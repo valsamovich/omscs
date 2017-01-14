@@ -65,9 +65,12 @@
 **Diagram Types**
 
 - **Structural** diagrams give you the pieces of the system that are always there and the relationship among them.
+    - **Class model Diagram** shows structural properties. Its' has classes ad relationships between those classes.
+    - **Object Diagram** use instances.
+    - **Composite Structure Diagram** conveys internal structure of a class.
+    - **Component Diagram** is a static implementation view of how the components of a system fit together
+    - **Deployment Diagram** show relationship between computational units(note).
 - **Behavior** diagrams are concerned with the execution(s) of the system.
-
-**Class model Diagram** shows structural properties. Its' has classes ad relationships between those classes.
 
 ![alt text](/images/cs6310-uml-classes-&-relationships.png "UML Classes & Realtionships")
 
