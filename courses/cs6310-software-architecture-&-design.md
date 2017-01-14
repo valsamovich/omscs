@@ -30,10 +30,11 @@
 
 ## P1L3 Design Concepts
 
-    "Design is EVERYWHERE: from Internatinal Space Station to Dinner Parties" - Prof. Spencer Rugaber
-
 - **Design** is a deliberative, purposive planning.
 - **Engineering** is a skilful or artful contrivance applying scientific and mathematical principles
+
+    "Design is EVERYWHERE: from Internatinal Space Station to Dinner Parties" - Prof. Spencer Rugaber
+
 - **Software Design** is a process of building a program while satisfying a problem's functional requirements and not violating its non-functional constraints. Contains two phases.
     - **Architectural design** is a process of identifying and assigning the responsibility for aspects of behavior to varios modules or components of a software.
     - **Detail deisgn** is a process of specifying the behavior of each of the system components that you're identified during architectural design. 
@@ -44,7 +45,7 @@
 
 **Approaches** to Software Design. It's include 3 aspects: method, representational, and validation.
 
-**Design Documentation** is key concept in Software Design.
+**Design Documentation** is key concept in Software Design (Subcomponents, Control Flow, Performance, Resources).
 
 ## Resources
 
@@ -53,3 +54,4 @@
 - [ArgoUML](http://argouml.tigris.org/)
 - [Eclipse IDE](https://www.eclipse.org/home/index.php)
 - [OO Design Review Guidelines](https://s3.amazonaws.com/content.udacity-data.com/courses/gt-cs6310/notes/gt-sad-p1l3-design-validation.txt)
+- [IEEE 1016 Working Group: Software Design Descriptions](http://www.iso-architecture.org/ieee-p1016/)
