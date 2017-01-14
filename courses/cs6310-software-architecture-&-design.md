@@ -5,6 +5,7 @@
 - [P1L1 Introduction](/courses/cs6310-software-architecture-&-design.md#p1l1-introduction)
 - [P1L2 Text Browser Exercise](/courses/cs6310-software-architecture-&-design.md#p1l2-text-browser-exercise)
 - [P1L3 Design Concepts](/courses/cs6310-software-architecture-&-design.md#p1l3-design-concepts)
+- [P2L1 Review of UML](/courses/cs6310-software-architecture-&-design.md#p2p1-review-of-uml)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -60,6 +61,15 @@
 - **Diagram** is a simplified drawing showing the appearance, structure, or workings of something; aschematic representation.
 - **Object Management Technique (OMT)** includes Class MOdel Diagram, Statechart Diagram, and Dataflow Diagram.
 - **Unified Modeling Language (UML)**  is a general-purpose, developmental, modeling language in the field of software engineering, that is intended to provide a standard way to visualize the design of a system.
+
+**Diagram Types**
+
+- **Structural** diagrams give you the pieces of the system that are always there and the relationship among them.
+- **Behavior** diagrams are concerned with the execution(s) of the system.
+
+**Class model Diagram** shows structural properties. Its' has classes ad relationships between those classes.
+
+![alt text](/images/cs6310-uml-classes-&-relationship.png "UML Classes & Realtionships")
 
 ## Resources
 
