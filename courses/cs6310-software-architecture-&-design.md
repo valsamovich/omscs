@@ -30,12 +30,14 @@
 
 ## P1L3 Design Concepts
 
-    "Design is everywhere: from Internatinal Space Station to Dinner Parties" - Prof. Spencer Rugaber
+    "Design is the most creative part of software development..." - Prof. Spencer Rugaber
 
 - **Design** is a deliberative, purposive planning.
 - **Engineering** is a skilful or artful contrivance applying scientific and mathematical principles
 - **Software Design** is a process of building a program while satisfying a problem's functional requirements and not violating its non-functional constraints. Contains two phases.
 
+
+        
 **Software Design** phases 
 
 - **Architectural design** is a process of identifying and assigning the responsibility for aspects of behavior to varios modules or components of a software.
@@ -54,8 +56,6 @@
 - **Abstraction** & **Refinement** is *Declarative, Aggregation, Generalization, Parameterization, and Non-determinism.*
 - **Aesthetics** includes *completeness, consistency, and conceptual integrity.*
 - **Design Philosophy** includes *anlysis, models, user-centered design, IDEs, tools, language and games*
-
-        "Design is the most creative part of software development" - Prof. Spencer Rugaber
     
 ## Resources
 
