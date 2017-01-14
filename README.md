@@ -5,3 +5,7 @@
 ## Courses
 
 - [CS6310 Software Architecture & Design](/courses/cs6310-software-architecture-&-design.md)
+
+## Other
+
+- [coursedocs.org](http://www.coursedocs.org/en/latest/index.html#)
