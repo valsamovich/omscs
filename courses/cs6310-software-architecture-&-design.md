@@ -69,7 +69,7 @@
 
 **Class model Diagram** shows structural properties. Its' has classes ad relationships between those classes.
 
-![alt text](/images/cs6310-uml-classes-&-relationship.png "UML Classes & Realtionships")
+![alt text](/images/cs6310-uml-classes-&-relationships.png "UML Classes & Realtionships")
 
 ## Resources
 
