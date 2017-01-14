@@ -9,3 +9,4 @@
 ## Other
 
 - [coursedocs.org](http://www.coursedocs.org/en/latest/index.html#)
+- [OMSCS Survival Guide](https://github.com/vsamov/OMSCS_Survival_Guide)
