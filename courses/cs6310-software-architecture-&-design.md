@@ -30,7 +30,7 @@
 
 ## P1L3 Design Concepts
 
-    "Design is EVERYWHERE: from Internatinal Space Station to Dinner Parties" - Prof. Spencer Rugaber
+    "Design is everywhere: from Internatinal Space Station to Dinner Parties" - Prof. Spencer Rugaber
 
 - **Design** is a deliberative, purposive planning.
 - **Engineering** is a skilful or artful contrivance applying scientific and mathematical principles
@@ -47,12 +47,16 @@
         
 **Software Design** concepts
 
-- **Approaches** to Software Design. It's include 3 aspects: method, representational, and validation.
-- **Design Documentation** is key concept in Software Design (Subcomponents, Control Flow, Performance, Resources).
+- **Approaches** to Software Design. It's include 3 aspects: *method, representational, and validation.*
+- **Design Documentation** is key concept in Software Design with *Subcomponents, Control Flow, Performance, Resources.*
 - Low **Coupling** is good (Java packages) and high **Cohesion** good.
 - **Information Hiding** is an encapsulating the capabilities of the module begidn the abstract interface.
-- **Abstraction** & **Refinement** is Declarative, Aggregation, Generalization, Parameterization, and Non-determinism
+- **Abstraction** & **Refinement** is *Declarative, Aggregation, Generalization, Parameterization, and Non-determinism.*
+- **Aesthetics** includes *completeness, consistency, and conceptual integrity.*
+- **Design Philosophy** includes *anlysis, models, user-centered design, IDEs, tools, language and games*
 
+        "Design is the most creative part of software development" - Prof. Spencer Rugaber
+    
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
