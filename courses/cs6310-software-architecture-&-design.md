@@ -56,7 +56,13 @@
 - **Abstraction** & **Refinement** is *Declarative, Aggregation, Generalization, Parameterization, and Non-determinism.*
 - **Aesthetics** includes *completeness, consistency, and conceptual integrity.*
 - **Design Philosophy** includes *anlysis, models, user-centered design, IDEs, tools, language and games*
-    
+
+## P2L1 Review of UML
+
+**Diagram** is a simplified drawing showing the appearance, structure, or workings of something; aschematic representation.
+**Object Management Technique (OMT)** includes Class MOdel Diagram, Statechart Diagram, and Dataflow Diagram.
+**Unified Modeling Language (UML)**  is a general-purpose, developmental, modeling language in the field of software engineering, that is intended to provide a standard way to visualize the design of a system.
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
