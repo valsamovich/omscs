@@ -62,7 +62,7 @@
 - **Object Management Technique (OMT)** includes Class MOdel Diagram, Statechart Diagram, and Dataflow Diagram.
 - **Unified Modeling Language (UML)**  is a general-purpose, developmental, modeling language in the field of software engineering, that is intended to provide a standard way to visualize the design of a system.
 
-**Diagram Types**
+**Diagrams**
 
 - **Structural** diagrams give you the pieces of the system that are always there and the relationship among them.
     - **Class Diagram** - components and structurak properties).
@@ -83,6 +83,11 @@
  
 **Class Diagram**
 ![alt text](/images/cs6310-uml-classes-&-relationships.png "UML Classes & Realtionships")
+
+**Features**
+
+- **Object Constraint Language** (OCL) is a textual extension to UML's visual notation. Applicable to Class and Statechart diagrams. Enables more prcise specifications.
+- **Meta Model** is the definition of UML in UML. UML Meta model is UML description of the UML language. It's can be extended by a modeler using profiles. Those extensions are more stereotypes, more tag values and constraints.
 
 ## Resources
 
