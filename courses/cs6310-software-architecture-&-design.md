@@ -65,15 +65,23 @@
 **Diagram Types**
 
 - **Structural** diagrams give you the pieces of the system that are always there and the relationship among them.
-    - **Class model Diagram** shows structural properties. Its' has classes ad relationships between those classes.
-    - **Object Diagram** use instances.
-    - **Composite Structure Diagram** conveys internal structure of a class.
-    - **Component Diagram** is a static implementation view of how the components of a system fit together.
-    - **Deployment Diagram** show relationship between computational units(note).
-    - UML **Package Diagram** is a organizing mechanisms and provides namesapce scoping with dependency arrows.
-    - **Profile Diagram** allow to extend the basic UML notation/meta model.
+    - **Class Diagram** - components and structurak properties).
+    - **Object Diagram** - statis structure at a particular time.
+    - **Composite Structure** - internal structure and possible interactions.
+    - **Component Diagram** - organization of physical software components.
+    - **Deployment Diagram** - components and structural properties.
+    - **Package Diagram** - logical grouping and dependencies
+    - **Profile Diagram** - extension to the UML meta model.
 - **Behavior** diagrams are concerned with the execution(s) of the system.
-
+    - **Use Case Diagram** - system functionality provided to external actors.
+    - **State Diagram** -  dynamic behavior in response to stimuli.
+    - **Activity Diagram** flow ofcontrol from activity to activity.
+    - **Interaction Overview Diagram** synthesis of lower-level Activity Diagrams.
+    - **Sequence Diagram** interaction of classes of message exchange.
+    - **Communication Diagram** object interaction of numbered messages.
+    - **Timing Diagram** - rotated sequence diagram.
+ 
+**Class Diagram**
 ![alt text](/images/cs6310-uml-classes-&-relationships.png "UML Classes & Realtionships")
 
 ## Resources
