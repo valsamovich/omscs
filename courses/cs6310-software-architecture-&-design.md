@@ -89,6 +89,11 @@
 - **Object Constraint Language** (OCL) is a textual extension to UML's visual notation. Applicable to Class and Statechart diagrams. Enables more prcise specifications.
 - **Meta Model** is the definition of UML in UML. UML Meta model is UML description of the UML language. It's can be extended by a modeler using profiles. Those extensions are more stereotypes, more tag values and constraints.
 
+## UML Class Models
+
+- The **Class MOdel Diagram** is the most popular and  most complex type of diagram.
+- It's contains representations for *classes, interfaces, objects, relationshis, entc*.
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
