@@ -5,7 +5,8 @@
 - [P1L1 Introduction](/courses/cs6310-software-architecture-&-design.md#p1l1-introduction)
 - [P1L2 Text Browser Exercise](/courses/cs6310-software-architecture-&-design.md#p1l2-text-browser-exercise)
 - [P1L3 Design Concepts](/courses/cs6310-software-architecture-&-design.md#p1l3-design-concepts)
-- [P2L1 Review of UML](/courses/cs6310-software-architecture-&-design.md#p2p1-review-of-uml)
+- [P2L1 Review of UML](/courses/cs6310-software-architecture-&-design.md#p2l1-review-of-uml)
+- [P2L3](/courses/cs6310-software-architecture-&-design.md#p2l3-uml-class-models)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
