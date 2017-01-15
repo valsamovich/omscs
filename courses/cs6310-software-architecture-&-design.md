@@ -75,7 +75,7 @@
 - **Behavior** diagrams are concerned with the execution(s) of the system.
     - **Use Case Diagram** - system functionality provided to external actors.
     - **State Diagram** -  dynamic behavior in response to stimuli.
-    - **Activity Diagram** flow ofcontrol from activity to activity.
+    - **Activity Diagram** flow of control from activity to activity.
     - **Interaction Overview Diagram** synthesis of lower-level Activity Diagrams.
     - **Sequence Diagram** interaction of classes of message exchange.
     - **Communication Diagram** object interaction of numbered messages.
