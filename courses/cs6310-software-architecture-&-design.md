@@ -68,8 +68,10 @@
     - **Class model Diagram** shows structural properties. Its' has classes ad relationships between those classes.
     - **Object Diagram** use instances.
     - **Composite Structure Diagram** conveys internal structure of a class.
-    - **Component Diagram** is a static implementation view of how the components of a system fit together
+    - **Component Diagram** is a static implementation view of how the components of a system fit together.
     - **Deployment Diagram** show relationship between computational units(note).
+    - UML **Package Diagram** is a organizing mechanisms and provides namesapce scoping with dependency arrows.
+    - **Profile Diagram** allow to extend the basic UML notation/meta model.
 - **Behavior** diagrams are concerned with the execution(s) of the system.
 
 ![alt text](/images/cs6310-uml-classes-&-relationships.png "UML Classes & Realtionships")
