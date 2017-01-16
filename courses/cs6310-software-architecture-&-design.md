@@ -95,6 +95,35 @@
 - The **Class Model Diagram** is the most popular and  most complex type of diagram.
 - It's contains representations for *classes, interfaces, objects, relationshis, etc*.
 
+**Compartments**
+
+**- Name Compartment** 
+    - Name should me a nown. 
+    - It be an *Abstact Class* 
+    - Affordances: stereotypes.
+**- Attributes Compartment**
+    - Symbols for Visibility: `+` Public, `-` Private, `#` Proptected, `~` Package.
+    - Must be name, type, optional multiplicity and ordering, optinal initial value, optional derivation, properties.
+    - Additional properteis: `{frozen}`
+**- Operations Compartment**
+    - Optinoal visibility: `+` Public, `-` Private, `#` Proptected, `~` Package.
+    - Parameters List: name, type, default value, kind(in, out, inout)
+    - Additional properties: `{query}`, `{concurency}`, `{abstract}`, and Class scope
+
+**Avanced Features**
+
+- **Interfaces** Icons for requires and provides.
+- **Parameterized classes** Describe collection classes.
+- **Nested classes** Suitable for inner classes.
+- **Composite objects** Class diagrams within class rectangles.
+
+**Relationships**
+
+- **Association** Example: people drive vehicles.
+- **Generalizartion** Example: that car is kind of vehicle.
+- **Dependencies** Example: cars and pollution laws.
+
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
