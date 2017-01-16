@@ -120,9 +120,10 @@
 **Relationships**
 
 - **Association** Example: people drive vehicles.
+    - Name, association classes, aggregation or composition.
+    - It can express Navigability, and multiplicity.
 - **Generalizartion** Example: that car is kind of vehicle.
 - **Dependencies** Example: cars and pollution laws.
-
 
 ## Resources
 
