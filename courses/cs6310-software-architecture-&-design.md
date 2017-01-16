@@ -79,7 +79,7 @@
     - **Activity Diagram** flow of control from activity to activity.
     - **Interaction Overview Diagram** synthesis of lower-level Activity Diagrams.
     - **Sequence Diagram** interaction of classes of message exchange.
-    - **Communication Diagram** object interaction of numbered messages.
+    - **Communication Diagram** (Communication Diagram) object interaction of numbered messages.
     - **Timing Diagram** - rotated sequence diagram.
  
 **Class Diagram**
