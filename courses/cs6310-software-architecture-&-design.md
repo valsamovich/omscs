@@ -121,6 +121,7 @@
 
 - **Association** Example: people drive vehicles.
     - Roles: Name, association classes, aggregation or composition.
+    - It can have Qualifiers and Links.
     - It can express Navigability, multiplicity, and constraints.
 - **Generalizartion** Example: that car is kind of vehicle.
 - **Dependencies** Example: cars and pollution laws.
