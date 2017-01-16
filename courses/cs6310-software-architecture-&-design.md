@@ -6,7 +6,7 @@
 - [P1L2 Text Browser Exercise](/courses/cs6310-software-architecture-&-design.md#p1l2-text-browser-exercise)
 - [P1L3 Design Concepts](/courses/cs6310-software-architecture-&-design.md#p1l3-design-concepts)
 - [P2L1 Review of UML](/courses/cs6310-software-architecture-&-design.md#p2l1-review-of-uml)
-- [P2L3](/courses/cs6310-software-architecture-&-design.md#p2l3-uml-class-models)
+- [P2L3 UML Class Models](/courses/cs6310-software-architecture-&-design.md#p2l3-uml-class-models)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -90,10 +90,10 @@
 - **Object Constraint Language** (OCL) is a textual extension to UML's visual notation. Applicable to Class and Statechart diagrams. Enables more prcise specifications.
 - **Meta Model** is the definition of UML in UML. UML Meta model is UML description of the UML language. It's can be extended by a modeler using profiles. Those extensions are more stereotypes, more tag values and constraints.
 
-## UML Class Models
+## P2L3 UML Class Models
 
-- The **Class MOdel Diagram** is the most popular and  most complex type of diagram.
-- It's contains representations for *classes, interfaces, objects, relationshis, entc*.
+- The **Class Model Diagram** is the most popular and  most complex type of diagram.
+- It's contains representations for *classes, interfaces, objects, relationshis, etc*.
 
 ## Resources
 
