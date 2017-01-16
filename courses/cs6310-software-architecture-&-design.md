@@ -97,15 +97,15 @@
 
 **Compartments**
 
-**- Name Compartment** 
+- **Name Compartment** 
     - Name should me a nown. 
     - It be an *Abstact Class* 
     - Affordances: stereotypes.
-**- Attributes Compartment**
+- **Attributes Compartment**
     - Symbols for Visibility: `+` Public, `-` Private, `#` Proptected, `~` Package.
     - Must be name, type, optional multiplicity and ordering, optinal initial value, optional derivation, properties.
     - Additional properteis: `{frozen}`
-**- Operations Compartment**
+- **Operations Compartment**
     - Optinoal visibility: `+` Public, `-` Private, `#` Proptected, `~` Package.
     - Parameters List: name, type, default value, kind(in, out, inout)
     - Additional properties: `{query}`, `{concurency}`, `{abstract}`, and Class scope
