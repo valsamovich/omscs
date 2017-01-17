@@ -63,6 +63,8 @@
 - **Object Management Technique (OMT)** includes Class MOdel Diagram, Statechart Diagram, and Dataflow Diagram.
 - **Unified Modeling Language (UML)**  is a general-purpose, developmental, modeling language in the field of software engineering, that is intended to provide a standard way to visualize the design of a system.
 
+![alt text](/images/cs6310-diagrams-as-class-model-dagram.png "UML Diagrams as Class Model diagram")
+
 **Diagrams**
 
 - **Structural** diagrams give you the pieces of the system that are always there and the relationship among them.
