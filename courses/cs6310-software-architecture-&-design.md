@@ -121,9 +121,11 @@
 
 - **Association** Example: people drive vehicles.
     - Roles: Name, association classes, aggregation or composition.
-    - It can have Qualifiers and Links.
+    - It can have qualifiers and links.
     - It can express Navigability, multiplicity, and constraints.
 - **Generalizartion** Example: that car is kind of vehicle.
+    - Instances of the subclass must have all properties of instances of the parent class 
+    - Supports both multiple parent classes for a given class, and multiple child classes for a given parent class.
 - **Dependencies** Example: cars and pollution laws.
 
 ## Resources
