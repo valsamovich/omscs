@@ -100,7 +100,18 @@
 **Object Oriented Analysis** (OOA) is a requirments analysis technique developed by Abbott and Booch in the 1980s. Its's based on modeling real-world objects based on their descriptions to produce Object Analysis Model. It's pays primary attention to objects.
 
     Quote: "Objects are moste stable then functions, over the lifetime of a system"
-    
+
+                                                 OOA start with
+                                                        |
+                                    Textual Description (Requirement document)
+                                      |           |           |            |
+                                Nons(Classes)     | Adjectives(Attributes) |
+                                                  |                        |
+                                         Actions(Operations)   Stative verbs(Relationships)
+
+
+
+
 ## P2L3 UML Class Models
 
 - The **Class Model Diagram** is the most popular and  most complex type of diagram.
