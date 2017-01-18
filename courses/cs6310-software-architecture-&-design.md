@@ -105,10 +105,11 @@
                                                         |
                                     Textual Description (Requirement document)
                                       |           |           |            |
-                                Nons(Classes)     | Adjectives(Attributes) |
-                                                  |                        |
-                                         Actions(Operations)   Stative verbs(Relationships)
-
+                                     Nons         |       Adjectives       |
+                                   (Classes)      |      (Attributes)      |
+                                               Actions               Stative verbs
+                                             (Operations)           (Relationships)
+                                             
 
 
 
