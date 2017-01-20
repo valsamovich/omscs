@@ -107,11 +107,13 @@
                                       |           |           |            |
                                      Nons         |       Adjectives       |
                                    (Classes)      |      (Attributes)      |
-                                               Actions               Stative verbs
+                                             Action verbs            Stative verbs
                                              (Operations)           (Relationships)
-                                             
-
-
+      
+    Several kinds of verbs:
+        - Operations correspands to action verbs
+        - Linking verbs are related to attributes
+        - Stative verbs are indicative of a relationship among objects
 
 ## P2L3 UML Class Models
 
