@@ -173,16 +173,26 @@
     - **Design Spaces** It's help to explore a space of possibilities.
     - **Projects** Each of the project involes solving a design problem in several ways.
     - **Experiments** Design study is an empirical scientific experiment.
-    - **Report** The design study itself is presnted in a report. It's contain several sections.
-        1. **Context** It's provides background and motivation for the study.
-        2. **Research Questions** Design study examines the tradeoffs between various nonfunctional requirments.
-        3. **Subject** A design study compares multiple subjects.
-        4. **Exxperimentals Conditions** A software design study noramlly means running several versions of a program.
-        5. **Variables** They must be identified and appropriate metrics specified.
-        6. **Method** It's include number of trials, tools, technique, etc. 
-        7. **Results** The point of cunducting a design study is to produce data
-        8. **Discussion** It's opportunity to interpret the data and provide a discussion of its implications.
-        9. **Conclusions** It's a place to summarize reults and draw conclusions.
+    
+**Report** 
+
+The design study itself is presnted in a report. It's contain several sections.
+
+1. **Context** It's provides background and motivation for the study.
+2. **Research Questions** Design study examines the tradeoffs between various nonfunctional requirments.
+3. **Subject** A design study compares multiple subjects.
+4. **Exxperimentals Conditions** A software design study noramlly means running several versions of a program.
+5. **Variables** They must be identified and appropriate metrics specified.
+6. **Method** It's include number of trials, tools, technique, etc. 
+7. **Results** The point of cunducting a design study is to produce data
+8. **Discussion** It's opportunity to interpret the data and provide a discussion of its implications.
+9. **Conclusions** It's a place to summarize reults and draw conclusions.
+
+**Deliverables**
+
+1. **Source Code** solving a specific problem in several ways.
+2. **Project report** containing project-specific content.
+3. **Design Study** 
 
 ## Resources
 
