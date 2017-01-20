@@ -8,6 +8,7 @@
 - [P2L1 Review of UML](/courses/cs6310-software-architecture-&-design.md#p2l1-review-of-uml)
 - [P2L2 Object Oriented Analysis Exercise](/courses/cs6310-software-architecture-&-design.md#p2l2-bbject-oriented-analysis-exercise)
 - [P2L3 UML Class Models](/courses/cs6310-software-architecture-&-design.md#p2l3-uml-class-models)
+- [P2L4 Design Studies](/courses/cs6310-software-architecture-&-design.md#p2l4-design-studies)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -163,6 +164,25 @@
     - Instances of the subclass must have all properties of instances of the parent class 
     - Supports both multiple parent classes for a given class, and multiple child classes for a given parent class.
 - **Dependencies** Example: cars and pollution laws.
+
+## P2L4 Design Studies
+
+    "Design is all about making desicions" - Prof. Spencer Rugaber
+    
+- **Design Studies** is series of scale models. It's a rigorous and systematic evaluation of the factors that influence a design. It should begin with determination of relevat criteria, metrics, & threshold. Design must be learned.
+    - **Design Spaces** It's help to explore a space of possibilities.
+    - **Projects** Each of the project involes solving a design problem in several ways.
+    - **Experiments** Design study is an empirical scientific experiment.
+    - **Report** The design study itself is presnted in a report. It's contain several sections.
+        1. **Context** It's provides background and motivation for the study.
+        2. **Research Questions** Design study examines the tradeoffs between various nonfunctional requirments.
+        3. **Subject** A design study compares multiple subjects.
+        4. **Exxperimentals Conditions** A software design study noramlly means running several versions of a program.
+        5. **Variables** They must be identified and appropriate metrics specified.
+        6. **Method** It's include number of trials, tools, technique, etc. 
+        7. **Results** The point of cunducting a design study is to produce data
+        8. **Discussion** It's opportunity to interpret the data and provide a discussion of its implications.
+        9. **Conclusions** It's a place to summarize reults and draw conclusions.
 
 ## Resources
 
