@@ -101,6 +101,12 @@
 
     Quote: "Objects are moste stable then functions, over the lifetime of a system"
 
+    OOA Steps:
+        1. Locate Nouns (Classes)
+        2. Candidate Classes (basen on Noun list)
+        3. Locate Adjective (Attributes)
+        4. Locate Operations (Action verbs)
+        5. Identify Relationships
                                                  OOA start with
                                                         |
                                     Textual Description (Requirement document)
@@ -110,7 +116,7 @@
                                              Action verbs            Stative verbs
                                              (Operations)           (Relationships)
       
-    Several kinds of verbs:
+    Kinds of verbs:
         - Operations correspands to action verbs
         - Linking verbs are related to attributes
         - Stative verbs are indicative of a relationship among objects
