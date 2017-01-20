@@ -107,10 +107,11 @@
         3. Locate Adjective (Attributes)
         4. Locate Operations (Action verbs)
         5. Identify Relationships
-            - Generalizations
-            - Aggregations
-            - Associations
+            - Generalizations (... is generalization of ...)
+            - Aggregations (... consists of ...)
+            - Associations (... is associated with ...)
             - General(NO LINE)
+   
                                                  OOA start with
                                                         |
                                     Textual Description (Requirement document)
