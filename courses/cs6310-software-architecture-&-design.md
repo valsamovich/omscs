@@ -107,6 +107,10 @@
         3. Locate Adjective (Attributes)
         4. Locate Operations (Action verbs)
         5. Identify Relationships
+            - Generalizations
+            - Aggregations
+            - Associations
+            - General(NO LINE)
                                                  OOA start with
                                                         |
                                     Textual Description (Requirement document)
