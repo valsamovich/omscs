@@ -127,6 +127,10 @@
         - Linking verbs are related to attributes
         - Stative verbs are indicative of a relationship among objects
 
+**Relationships**
+
+![alt text](/images/cs6310-relationships.png "Relationships")
+
 ## P2L3 UML Class Models
 
 - The **Class Model Diagram** is the most popular and  most complex type of diagram.
@@ -187,6 +191,8 @@ The design study itself is presnted in a report. It's contain several sections.
 7. **Results** The point of cunducting a design study is to produce data
 8. **Discussion** It's opportunity to interpret the data and provide a discussion of its implications.
 9. **Conclusions** It's a place to summarize reults and draw conclusions.
+
+![alt text](/images/cs6310-design-study-summary.png "Design Study Summary")
 
 **Deliverables**
 
