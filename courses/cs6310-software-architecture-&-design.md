@@ -9,6 +9,7 @@
 - [P2L2 Object Oriented Analysis Exercise](/courses/cs6310-software-architecture-&-design.md#p2l2-bbject-oriented-analysis-exercise)
 - [P2L3 UML Class Models](/courses/cs6310-software-architecture-&-design.md#p2l3-uml-class-models)
 - [P2L4 Design Studies](/courses/cs6310-software-architecture-&-design.md#p2l4-design-studies)
+- [P2L6 Formal Specification Exercise](/courses/cs6310-software-architecture-&-design.md#p2l6-dormal-specification-exercise)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -199,6 +200,14 @@ The design study itself is presnted in a report. It's contain several sections.
 1. **Source Code** solving a specific problem in several ways.
 2. **Project report** containing project-specific content.
 3. **Design Study** 
+
+## P2L6 Formal Specification Exercise
+
+- **Specification** need to know what a program is supposed to do before you begin to write in.
+- **Notations**
+    - **Mathematical logic** or **First Order Logic (FOL)** Enables to precisely express propositions, combonie them, and quality them.
+    - **Object Constraint Language (OCL)** which is part of UML. It's provides a syntax for FOL that can be used to annotate UML diagrams.
+- **Sorting** 
 
 ## Resources
 
