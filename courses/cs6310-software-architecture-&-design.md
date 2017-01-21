@@ -211,11 +211,19 @@ The design study itself is presnted in a report. It's contain several sections.
 
 **What to consider?**
 
-        Exercise: y equals the sort of x
+        Exercise: y equals the sort(ascending order) of x
         
 - **Input Type** Did specification state what the input looked like?
 - **Output Type** Did specification state what the output looked like?
 - **Ordering** Did specification indicate any order?
+- **Sensitivity to Input** Like size of x == y
+
+Process of conversion from **Specification** to **Mathematical Specification**
+
+- **Signature** Gives the name of the program, the name and types of the input arguments and the name and type of the results.
+    - For sort it'a looks like this: `Vector<int> Y = SORT(Vector<int> X)`
+- **Preondition** What must be true about the input used by a function.
+- **Postcondition** What must be true about the output produced by a function.
 
 ## Resources
 
