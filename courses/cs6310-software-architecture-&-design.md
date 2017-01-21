@@ -209,6 +209,14 @@ The design study itself is presnted in a report. It's contain several sections.
     - **Object Constraint Language (OCL)** which is part of UML. It's provides a syntax for FOL that can be used to annotate UML diagrams.
 - **Sorting** 
 
+**What to consider?**
+
+        Exercise: y equals the sort of x
+        
+- **Input Type** Did specification state what the input looked like?
+- **Output Type** Did specification state what the output looked like?
+- **Ordering** Did specification indicate any order?
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
