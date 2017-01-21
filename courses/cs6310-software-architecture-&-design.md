@@ -9,7 +9,7 @@
 - [P2L2 Object Oriented Analysis Exercise](/courses/cs6310-software-architecture-&-design.md#p2l2-bbject-oriented-analysis-exercise)
 - [P2L3 UML Class Models](/courses/cs6310-software-architecture-&-design.md#p2l3-uml-class-models)
 - [P2L4 Design Studies](/courses/cs6310-software-architecture-&-design.md#p2l4-design-studies)
-- [P2L6 Formal Specification Exercise](/courses/cs6310-software-architecture-&-design.md#p2l6-dormal-specification-exercise)
+- [P2L6 Formal Specification Exercise](/courses/cs6310-software-architecture-&-design.md#p2l6-formal-specification-exercise)        
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
