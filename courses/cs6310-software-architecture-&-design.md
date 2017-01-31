@@ -254,11 +254,18 @@ Process of conversion from **Specification** to **Mathematical Specification**
 
 **Invariants**
 
+        context LargeCompany int: numberOfEmployees > 50
+
 - Statement of a property that is always true
 - Express key system requirements
 - `inv` keyword
+- Role of Invariants (aka concept of integrity constraints)
 
-        context LargeCompany int: numberOfEmployees > 50
+**Pre and Post Condidtions**
+
+- Used to express Meaning of UML Operations
+ - `pre` condidtion what must be true for the operation to meaningfully take place.
+ - `post` condidtion waht is guaranteed to be true after the operation completes.
 
 ## Resources
 
