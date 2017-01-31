@@ -251,7 +251,15 @@ Process of conversion from **Specification** to **Mathematical Specification**
     <identifier>         - Give a name for the context. Context is where you are in a diagram.
     <constraintType>     - Type of constraints
     <Boolean expression> - It's an actual constraint that the statement is expressing.
-    
+
+**Invariants**
+
+- Statement of a property that is always true
+- Express key system requirements
+- `inv` keyword
+
+        context LargeCompany int: numberOfEmployees > 50
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
