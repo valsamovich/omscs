@@ -263,9 +263,17 @@ Process of conversion from **Specification** to **Mathematical Specification**
 
 **Pre and Post Condidtions**
 
+    context Real::squareRoot() : Real
+    pre: self >= 0
+    post: self = result * result
+    
+    contect Account::deposit(Real : amount)
+    pre: amount > 0
+    post: balance = balance@pre + amount
+
 - Used to express Meaning of UML Operations
- - `pre` condidtion what must be true for the operation to meaningfully take place.
- - `post` condidtion waht is guaranteed to be true after the operation completes.
+- `pre` condidtion what must be true for the operation to meaningfully take place.
+- `post` condidtion waht is guaranteed to be true after the operation completes.
 
 ## Resources
 
