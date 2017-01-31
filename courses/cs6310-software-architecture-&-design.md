@@ -226,13 +226,23 @@ Process of conversion from **Specification** to **Mathematical Specification**
 - **Preondition** What must be true about the input used by a function.
 - **Postcondition** What must be true about the output produced by a function.
 
-## P2L67 OCL
+## P2L7 OCL
 
 - **Object Constraint Language (OCL)**
     - Official part of UML
     - Strongly typed, declarative specification of system properties.
     - It's consist **constraints** + collection classes + UML diagram navigation.
 
+- Why do we need OCL?
+    - UML diagrams are limited in what they can express.
+    - Structural relationships, behavioral descriptions.
+    - Mechanism for specifying precise semantics.
+    OCL extends UML with:
+        - Class invariants
+        - Operation pre and post condidtions
+        - Guards on state machine transitions
+        
+        
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
