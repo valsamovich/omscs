@@ -277,11 +277,11 @@ Process of conversion from **Specification** to **Mathematical Specification**
 
 **OCL Keywords**
 
-![alt text](/images/omscs6310-ocl-keywords.png "OCL Keywords")
+![alt text](/images/omscs6310-ocl-keywords.png =100x20 "OCL Keywords")
 
 **OCL Build-in Primitive Types**
 
-![alt text](/images/omscs6310-ocl-build-in-primitive-types.png "OCl Build-in Primitive types")
+![alt text](/images/omscs6310-ocl-build-in-primitive-types.png =100x20 "OCl Build-in Primitive types")
 
 ## Resources
 
