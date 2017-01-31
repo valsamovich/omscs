@@ -232,17 +232,26 @@ Process of conversion from **Specification** to **Mathematical Specification**
     - Official part of UML
     - Strongly typed, declarative specification of system properties.
     - It's consist **constraints** + collection classes + UML diagram navigation.
-
+    - It's **Declarative** not **procedural**.
+    - It's pure expressnion language.
 - Why do we need OCL?
     - UML diagrams are limited in what they can express.
     - Structural relationships, behavioral descriptions.
     - Mechanism for specifying precise semantics.
-    OCL extends UML with:
+    - OCL extends UML with:
         - Class invariants
         - Operation pre and post condidtions
         - Guards on state machine transitions
-        
-        
+
+**Syntax**
+
+    context <identifier> <constraintType>: <Boolean expression>
+
+    context              - The context is where you are in a diagram. Usually it a name of the class.
+    <identifier>         - Give a name for the context. Context is where you are in a diagram.
+    <constraintType>     - Type of constraints
+    <Boolean expression> - It's an actual constraint that the statement is expressing.
+    
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
