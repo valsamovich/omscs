@@ -9,7 +9,8 @@
 - [P2L2 Object Oriented Analysis Exercise](/courses/cs6310-software-architecture-&-design.md#p2l2-bbject-oriented-analysis-exercise)
 - [P2L3 UML Class Models](/courses/cs6310-software-architecture-&-design.md#p2l3-uml-class-models)
 - [P2L4 Design Studies](/courses/cs6310-software-architecture-&-design.md#p2l4-design-studies)
-- [P2L6 Formal Specification Exercise](/courses/cs6310-software-architecture-&-design.md#p2l6-formal-specification-exercise)        
+- [P2L6 Formal Specification Exercise](/courses/cs6310-software-architecture-&-design.md#p2l6-formal-specification-exercise)
+- [P2L7 OCL](/courses/cs6310-software-architecture-&-design.md#p2l7-ocl) 
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -224,6 +225,13 @@ Process of conversion from **Specification** to **Mathematical Specification**
     - For sort it'a looks like this: `Vector<int> Y = SORT(Vector<int> X)`
 - **Preondition** What must be true about the input used by a function.
 - **Postcondition** What must be true about the output produced by a function.
+
+## P2L67 OCL
+
+- **Object Constraint Language (OCL)**
+    - Official part of UML
+    - Strongly typed, declarative specification of system properties.
+    - It's consist **constraints** + collection classes + UML diagram navigation.
 
 ## Resources
 
