@@ -275,6 +275,14 @@ Process of conversion from **Specification** to **Mathematical Specification**
 - `pre` condidtion what must be true for the operation to meaningfully take place.
 - `post` condidtion waht is guaranteed to be true after the operation completes.
 
+**OCL Keywords**
+
+![alt text](/images/omscs6310-ocl-keywords.png "OCL Keywords")
+
+**OCL Build-in Primitive Types**
+
+![alt text](/images/omscs6310-ocl-build-in-primitive-types.png "OCl Build-in Primitive types")
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
