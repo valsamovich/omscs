@@ -228,7 +228,7 @@ Process of conversion from **Specification** to **Mathematical Specification**
 
 ## P2L7 OCL
 
-- **Object Constraint Language (OCL)**
+- **Object Constraint Language (OCL)** (constraints, navigation, collections).    
     - Official part of UML
     - Strongly typed, declarative specification of system properties.
     - It's consist **constraints** + collection classes + UML diagram navigation.
