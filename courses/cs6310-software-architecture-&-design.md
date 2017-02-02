@@ -10,7 +10,8 @@
 - [P2L3 UML Class Models](/courses/cs6310-software-architecture-&-design.md#p2l3-uml-class-models)
 - [P2L4 Design Studies](/courses/cs6310-software-architecture-&-design.md#p2l4-design-studies)
 - [P2L6 Formal Specification Exercise](/courses/cs6310-software-architecture-&-design.md#p2l6-formal-specification-exercise)
-- [P2L7 OCL](/courses/cs6310-software-architecture-&-design.md#p2l7-ocl) 
+- [P2L7 OCL](/courses/cs6310-software-architecture-&-design.md#p2l7-ocl)
+- [P2L9 Behavior Modeling](/courses/cs6310-software-architecture-&-design.md#p2l9-behavior-modeling) 
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -282,6 +283,12 @@ Process of conversion from **Specification** to **Mathematical Specification**
 **OCL Build-in Primitive Types**
 
 ![alt text](/images/omscs6310-ocl-build-in-primitive-types.png "OCl Build-in Primitive types")
+
+## P2L9 Behavior Modeling
+
+- **Structural Models** Express properties that are always true.
+- **States** Abstract description of system values at a given time.
+- **Events** Single, instantaneous, noticeable occurance
 
 ## Resources
 
