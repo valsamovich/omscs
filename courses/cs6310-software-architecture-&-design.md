@@ -11,7 +11,8 @@
 - [P2L4 Design Studies](/courses/cs6310-software-architecture-&-design.md#p2l4-design-studies)
 - [P2L6 Formal Specification Exercise](/courses/cs6310-software-architecture-&-design.md#p2l6-formal-specification-exercise)
 - [P2L7 OCL](/courses/cs6310-software-architecture-&-design.md#p2l7-ocl)
-- [P2L9 Behavior Modeling](/courses/cs6310-software-architecture-&-design.md#p2l9-behavior-modeling) 
+- [P2L9 Behavior Modeling](/courses/cs6310-software-architecture-&-design.md#p2l9-behavior-modeling)
+- [P3L2 Overview of Artchitectural Styles](/courses/cs6310-software-architecture-&-design.md#p3l2-overview-of-architectural-styles)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -289,6 +290,8 @@ Process of conversion from **Specification** to **Mathematical Specification**
 - **Structural Models** Express properties that are always true.
 - **States** Abstract description of system values at a given time.
 - **Events** Single, instantaneous, noticeable occurance
+
+## P3L2 Overview of Artchitectural Styles
 
 ## Resources
 
