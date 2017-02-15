@@ -293,6 +293,86 @@ Process of conversion from **Specification** to **Mathematical Specification**
 
 ## P3L2 Overview of Artchitectural Styles
 
+**Software architecture** refers to the fundamental structures of a **software system**, the discipline of creating such structures, and the documentation of these structures. These structures are needed to reason about the **software system**.  - *It's all about dicisions*.
+
+- "Organization of a system into **component subsystems of modules**" - Informal Definition
+- **Iteratively refined** into multiple layers
+- Often makes use of **stereotypical architectural styles**
+
+A **software architect** is a software expert who makes high-level design choices and dictates technical standards, including software coding standards, tools, and platforms. The leading expert is referred to as the chief architect.
+
+**Ultimate GOAL** is to **Increase the quality** of delivired systems and **reduce the cost** of producing them. The way of doing that is the early detection of problems. And the key way of detecting things early is to layout in advance how the system will look like.
+
+**Representing Architectures**
+
+- **Component** is a computational or data element plus interface to the rest of the system
+    - Selecting Components
+        - Required functionality
+        - Exisiting reusable componenets
+        - Physical machine arthitecture
+        - Expertise of staff
+        - Projected evolution trajectories
+    - APIs (Application Programming Interface)
+        - Names if access ports, argumnets, types
+        - Can be described in a programmming language; language binding
+        - Might be described in OCL
+        - To describe API - ADLs (Architectural Description Languages)
+- **Connector** is a communication protocol or between components
+    - Examples
+        - Procedure call/return
+        - Pair of messages
+        - Asymmetric, synchronous
+- **Configuration** is a specific associations between components and connector
+
+**Architecture Styles**
+
+**Architectural Styles** is a named collection of architectural desgin decisions.
+
+- Standard
+    - Abstract data types (ADT, hide representation)
+    - Batch sequential (validate, edit, update cycle)
+    - Blackboard (repository, opportunistic control, cooperating agents)
+    - Big ball of mud (Monolithic)
+    - Client Server (transactional processing, multi-tiers)
+    - Component-based (reusable modules communicating through well-defined interfaces)
+    - Coroutines(symmetric, interaction)
+    - Data centric (use of stored database procedure)
+    - Domain Driven Design (DDD) (business-oriented, domain model)
+    - Implicit invocation (events, callbacks, registration-broadcast)
+    - **Layered** (virtual/abstract, machines, limited visibility)
+    - Master control (hierachical call and return)
+    - Message Bus (asynchronous message passing a common bus)
+    - Mobile code (code on demand, remote evaluation, mobile agent)
+    - Object-oriented (asynchronous message passing, independent threads of control)
+    - Peer-to-peer (equal partners sharing responsibility)
+    - Plugins (registry plus third-party add-ons)
+    - Pipe and filter (one-way, sequential, stdin-stout, ASCII streams)
+    - Process control (with feedback loop)
+    - Production systems (rule base, conditional firing)
+    - **Representational state transfer (REST)** (client-server, layered, stateless, cacheable, distributed hypermedia)
+    - **Service-Oriented (SOA)** (loosely coyupled, stateless, discoverable, contract-specified)
+    - Shared Nothing (Shared) (distributed database with no sharing across nodes)
+    - State-transition systems (reactive, real-time)
+    - Shared-memory (with locks for synchronization)
+    - Table-driven interpreter (parse and dispach)
+- Specific
+    - If system have more than one style it's **Heterogeneous**
+    - **Domain-specific software architecture (DSSA)** (reference architecture) dublicate with some differences.
+    - Can be named differently based on **semantics**
+
+**ADL**
+
+**Architectural Description Languages** is a notations for describing architectures. It's provide **formality** and **precision**. Examples are: [**Acme**](http://www.cs.cmu.edu/~acme/), Wright Rapide, ArTek, Demeter, CODE, Modechart, PSDL/CAPS, Resolve, UniCon
+
+**Evaluations**
+
+Architecture **Evaluations** is a process of estimation of correctness, completeness, consistency and other aspects of quality of architecture.
+
+- **Systematic assessmnet** of architecture properties
+- **Architecture review boards**
+- **Software Architecture Assessment Method** (SAAM)
+- **Architecture Tradeoff Analysis Method** (ATAM)
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
