@@ -13,6 +13,7 @@
 - [P2L7 OCL](/courses/cs6310-software-architecture-&-design.md#p2l7-ocl)
 - [P2L9 Behavior Modeling](/courses/cs6310-software-architecture-&-design.md#p2l9-behavior-modeling)
 - [P3L2 Overview of Artchitectural Styles](/courses/cs6310-software-architecture-&-design.md#p3l2-overview-of-artchitectural-styles)
+- [P3L3 Artchitectural Views](/courses/cs6310-software-architecture-&-design.md#p3l3-artchitectural-views)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -373,6 +374,16 @@ Architecture **Evaluations** is a process of estimation of correctness, complete
 - **Software Architecture Assessment Method** (SAAM)
 - **Architecture Tradeoff Analysis Method** (ATAM)
 
+## P3L3 Artchitectural Views
+
+An architecture is NOT a diagram . It is a set of decisions.
+
+- Kruchten's Views
+    - **Logical View** Structural breakdown of computational, communicational and behavioral responsibilities.
+    - **Developmental View** Units of source code: packages, classes, libraries. Diagrmas: UML Package, Diagram, CVS.
+    - **Proces View** Processes and threads into which execution is divided. UML Deploymnet Diagram.
+    - **Physical View** Machines used for system  execution and how processes are allocated to them. UML Deployment diagram.
+    
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
