@@ -376,14 +376,20 @@ Architecture **Evaluations** is a process of estimation of correctness, complete
 
 ## P3L3 Artchitectural Views
 
-An architecture is NOT a diagram . It is a set of decisions.
+    "An architecture is NOT a diagram . It is a set of decisions." - Prof. Spencer Rugaber
 
 - Kruchten's Views
     - **Logical View** Structural breakdown of computational, communicational and behavioral responsibilities.
     - **Developmental View** Units of source code: packages, classes, libraries. Diagrmas: UML Package, Diagram, CVS.
     - **Proces View** Processes and threads into which execution is divided. UML Deploymnet Diagram.
     - **Physical View** Machines used for system  execution and how processes are allocated to them. UML Deployment diagram.
-    
+    - **Use Case View** Important execution sequences from the external actors' of view. UML Use Case Diagram.
+- Non-Kruchten's Views
+    - **Feature View** Conceptual units from the user's point of view. Feature diagram.
+    - **Nonn-Functional View** How non-functional requirements affetcs the software architecture. Explicit tradeoffs.
+
+
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
