@@ -16,6 +16,7 @@
 - [P3L3 Artchitectural Views](/courses/cs6310-software-architecture-&-design.md#p3l3-artchitectural-views)
 - [P3L4 Text Browser Exercise](/courses/cs6310-software-architecture-&-design.md#p3l4-text-browser-exercise)
 - [P3L5 Non-Functional Reqs & Arch Styles](/courses/cs6310-software-architecture-&-design.md#p3l5-non-functional-reqs--arch-styles)
+- [P3L6 Connectors](/courses/cs6310-software-architecture-&-design.md#p3l6-connectors)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -440,6 +441,10 @@ Architecture **Evaluations** is a process of estimation of correctness, complete
 Other: Resourse utilization, Precision, Usability, Availability, etc. 
 
     Each Architectural style have plusses and minuses. 
+
+## P3L6 Connectors
+
+**Connectors** is mediate interactions among omponents: that is, thay establish the rules that govern component interaction and specify any auxiliary mechanisms required.
 
 ## Resources
 
