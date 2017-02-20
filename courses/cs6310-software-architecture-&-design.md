@@ -437,6 +437,10 @@ Architecture **Evaluations** is a process of estimation of correctness, complete
     - Measures: Levels (confidential, top secret); formal proof.
     - Devices: Authentication/authorization, Security kernels, Encryption, Auditing and logging, Access control.
 
+Other: Resourse utilization, Precision, Usability, Availability, etc. 
+
+    Each Architectural staly have plusses and minuses. 
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
