@@ -14,6 +14,7 @@
 - [P2L9 Behavior Modeling](/courses/cs6310-software-architecture-&-design.md#p2l9-behavior-modeling)
 - [P3L2 Overview of Artchitectural Styles](/courses/cs6310-software-architecture-&-design.md#p3l2-overview-of-artchitectural-styles)
 - [P3L3 Artchitectural Views](/courses/cs6310-software-architecture-&-design.md#p3l3-artchitectural-views)
+- [P3L4 Text Browser Exercise](/courses/cs6310-software-architecture-&-design.md#p3l4-text-browser-exercise)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -388,7 +389,29 @@ Architecture **Evaluations** is a process of estimation of correctness, complete
     - **Feature View** Conceptual units from the user's point of view. Feature diagram.
     - **Nonn-Functional View** How non-functional requirements affetcs the software architecture. Explicit tradeoffs.
 
+## P3L4 Text Browser Exercise
 
+- **Summary of Process** To summarize the overall architectural design process looks like the following:
+    - **Phase 0: Specify Properties**
+        - Construct a context diagram.
+        - Indicate external actors but only one activity, the system itself.
+        - Indicate external stimili (events) that can effect the system.
+        - Indicate how the system communicates its results back to the external actors(percepts).
+        - Specify the behaviors of the system.
+    - **Phase 1: Componetize**
+        - Decompose the system into components.
+        - Allocate responsibilities to them.
+        - Handling of events.
+        - Delivery of percepts.
+        - Provision of the property guarantees.
+    -  **Phase 2: Determine Architectural Style**
+        - Determine how the cmponents will interact.
+        - For layered architecture.
+        - Assign the components to layers.
+        - Determine the dependencies between the layers.
+        - Update the guarantees.
+        - Select an invariant maintenance strategy.
+        - Assign responsibility for invariant maintenance.
 
 ## Resources
 
