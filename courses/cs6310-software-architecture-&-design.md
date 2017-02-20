@@ -15,6 +15,7 @@
 - [P3L2 Overview of Artchitectural Styles](/courses/cs6310-software-architecture-&-design.md#p3l2-overview-of-artchitectural-styles)
 - [P3L3 Artchitectural Views](/courses/cs6310-software-architecture-&-design.md#p3l3-artchitectural-views)
 - [P3L4 Text Browser Exercise](/courses/cs6310-software-architecture-&-design.md#p3l4-text-browser-exercise)
+- [P3L5 Non-Functional Reqs & Arch Styles](/courses/cs6310-software-architecture-&-design.md#p3l4-text-browser-exercise)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -412,6 +413,10 @@ Architecture **Evaluations** is a process of estimation of correctness, complete
         - Update the guarantees.
         - Select an invariant maintenance strategy.
         - Assign responsibility for invariant maintenance.
+
+## P3L5 Non-Functional Reqs & Arch Styles
+
+
 
 ## Resources
 
