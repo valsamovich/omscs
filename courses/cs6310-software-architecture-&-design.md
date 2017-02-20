@@ -15,7 +15,7 @@
 - [P3L2 Overview of Artchitectural Styles](/courses/cs6310-software-architecture-&-design.md#p3l2-overview-of-artchitectural-styles)
 - [P3L3 Artchitectural Views](/courses/cs6310-software-architecture-&-design.md#p3l3-artchitectural-views)
 - [P3L4 Text Browser Exercise](/courses/cs6310-software-architecture-&-design.md#p3l4-text-browser-exercise)
-- [P3L5 Non-Functional Reqs & Arch Styles](/courses/cs6310-software-architecture-&-design.md#p3l4-text-browser-exercise)
+- [P3L5 Non-Functional Reqs & Arch Styles](/courses/cs6310-software-architecture-&-design.md#p3l5-non-functional-reqs--arch-styles)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -416,7 +416,26 @@ Architecture **Evaluations** is a process of estimation of correctness, complete
 
 ## P3L5 Non-Functional Reqs & Arch Styles
 
-
+- **Performance** 
+    - Definition: Attribute of a computer system that characterizes the timeleness of the service delivired by the system. 
+    - Measures: Response time, throughput, capacity, utilization.
+    - Devices: Caching, Concurency, Memory management.
+- **Maintainability**
+    - Definition: Extent to which enhancements can be readily added to a system. Also called flexibility, etc.
+    - Measures: Coupling, Cohesion.
+    - Devices: Encapsulation, Published Interfaces, Subclassing, Indirection, and wrapping.
+- **Reliabity**
+    - Definition: Likehood of failure in a given time period; continuity of service.
+    - Measures: Mean Time To Failure (MTTF).
+    - Devices: Redundancy, fault tolerance, Recovery blocks.
+- **Safety**
+    - Definition: Extent to which system protects against injury, loss of file or property damage; absence of catastrophic consequences.
+    - Measures: Interaction complexity, time coupling, fault-tree analysis.
+    - Devices: Hardware interlocks, Fault containment.
+- **Security**
+    - Definition: Extent to which syste protects against unauthorized intrusion; cnfidentiality.
+    - Measures: Levels (confidential, top secret); formal proof.
+    - Devices: Authentication/authorization, Security kernels, Encryption, Auditing and logging, Access control.
 
 ## Resources
 
