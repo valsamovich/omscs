@@ -439,7 +439,7 @@ Architecture **Evaluations** is a process of estimation of correctness, complete
 
 Other: Resourse utilization, Precision, Usability, Availability, etc. 
 
-    Each Architectural staly have plusses and minuses. 
+    Each Architectural style have plusses and minuses. 
 
 ## Resources
 
