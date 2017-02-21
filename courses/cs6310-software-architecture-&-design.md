@@ -471,6 +471,8 @@ Other: Resourse utilization, Precision, Usability, Availability, etc.
         - Persistent and transient data
         - Naming registry
 
+Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
