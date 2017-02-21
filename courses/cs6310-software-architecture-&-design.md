@@ -446,6 +446,31 @@ Other: Resourse utilization, Precision, Usability, Availability, etc.
 
 **Connectors** is mediate interactions among omponents: that is, thay establish the rules that govern component interaction and specify any auxiliary mechanisms required.
 
+- **Simple Connectors**
+    - **Procedure Call Connectors** (to) - Remote procedure calls
+    - **Event Connecors** (to)
+    - **Data Access Connectors** (tx) - SQL
+    - **Linkage Connectors** (f) - Shared library configuration
+    - **Stream Connectors** (t) - Buffers
+    - **Arbitrators Connectors** (fo) - Schedulers
+    - **Adaptor Connectors** (x)
+    - **Distributor Connectors** (f)
+- **Composite Connectors**
+    - Science data servers, a form of publish-subscribe middleware
+        - Constituent connectors: event, data access, stream, distributor
+        - Multiple procedures and consumers
+        - Data transformation
+        - Public or private access
+    - FTP applications: Globus, bbFTP, GribFTP
+        - Constituent connectors: Procedure call, data access, stream distributor
+        - Hierachically or flatly name
+        - Synchronous
+        - Authentification
+    - Clien0server based distribution connectors: HTTP/REST, SOAP, FTP
+        - Constituent connectors: Procedure calls, data access, stream
+        - Persistent and transient data
+        - Naming registry
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
