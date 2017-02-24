@@ -298,17 +298,13 @@ Process of conversion from **Specification** to **Mathematical Specification**
     - Address the issue of complexity
     - Part of UML
     - Extensions To FSMs
-        - Depth
-        - Concurrency
+        - Depth (Nesting)
+        - **Concurrency** Separate dash line
         - Broadcast Event
         - Conditional transitions
         - Entry/exit actions/activities
         - History
         - Default States
-
-
-
-
 
 ## P3L2 Overview of Artchitectural Styles
 
