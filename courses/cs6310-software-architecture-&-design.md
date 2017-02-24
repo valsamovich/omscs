@@ -294,6 +294,21 @@ Process of conversion from **Specification** to **Mathematical Specification**
 - **Structural Models** Express properties that are always true.
 - **States** Abstract description of system values at a given time.
 - **Events** Single, instantaneous, noticeable occurance
+- **State Charts** (Developed by David Harel)
+    - Address the issue of complexity
+    - Part of UML
+    - Extensions To FSMs
+        - Depth
+        - Concurrency
+        - Broadcast Event
+        - Conditional transitions
+        - Entry/exit actions/activities
+        - History
+        - Default States
+
+
+
+
 
 ## P3L2 Overview of Artchitectural Styles
 
