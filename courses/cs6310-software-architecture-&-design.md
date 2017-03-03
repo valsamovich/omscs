@@ -503,7 +503,21 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
     - System
     - Representations
     - Re-maps
+    
+**Keywords** beyond *Vocaburary*
 
+- **Decomposition** For software architectural descriptions there are two kinds of decompositions:
+    - **Horisontal**
+    - **Vertical**
+- **Representations** 
+    - Levels of abstactions
+    - Each view is called representations
+- **Properties** 
+    - Identifier
+    - Name-value pairs
+    - Values
+- **Families**
+    
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
