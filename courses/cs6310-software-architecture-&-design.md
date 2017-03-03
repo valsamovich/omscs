@@ -498,25 +498,25 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
 - Vocaburary
     - Components
     - Connectors
-    - Ports
-    - Roles
+    - **Ports** Component Interface 
+    - **Roles** Connector Interface
     - System
-    - Representations
-    - Re-maps
+    - **Representations**
+        - Levels of abstactions
+        - Each view is called representations
+    - **Re-maps** Binding mechanism for vertical compostition
     
 **Keywords** beyond *Vocaburary*
 
 - **Decomposition** For software architectural descriptions there are two kinds of decompositions:
     - **Horisontal**
     - **Vertical**
-- **Representations** 
-    - Levels of abstactions
-    - Each view is called representations
-- **Properties** 
+- **Properties** Name-value pairs for export to external tools
     - Identifier
     - Name-value pairs
     - Values
-- **Families**
+- **Families** Means of defining architectural styles
+- **Open semantic framework** Export format for use by automated resoners
     
 ## Resources
 
