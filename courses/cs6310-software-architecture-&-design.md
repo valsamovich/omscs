@@ -17,7 +17,7 @@
 - [P3L4 Text Browser Exercise](/courses/cs6310-software-architecture-&-design.md#p3l4-text-browser-exercise)
 - [P3L5 Non-Functional Reqs & Arch Styles](/courses/cs6310-software-architecture-&-design.md#p3l5-non-functional-reqs--arch-styles)
 - [P3L6 Connectors](/courses/cs6310-software-architecture-&-design.md#p3l6-connectors)
-- [P3L7 Acme](/courses/cs6310-software-architecture-&-design.md#p3l7-Acme)
+- [P3L7 Acme](/courses/cs6310-software-architecture-&-design.md#p3l7-acme)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -494,6 +494,15 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
 - Features
     - defines a vocaburary for taking about architectures
     - extension mechanism enabling tool-specific sublanguages to be embedded.
+    - features generics, families and types for defining architectural styles
+- Vocaburary
+    - Components
+    - Connectors
+    - Ports
+    - Roles
+    - System
+    - Representations
+    - Re-maps
 
 ## Resources
 
