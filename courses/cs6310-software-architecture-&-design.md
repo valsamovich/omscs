@@ -542,12 +542,8 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
 
 ## P3L9 Middleware
 
-**Architecture of Distributed Systems**
-
-- Multiple computers
-- Heterogeneous 
-
-**Examples**: Client-server, Database server, Client web browser, Business logic 
+    *Middleware it's a group of technologies to support: Cleint-server, Database-server, Web-Browser systems.." - Prof. Spencer Rugaber
+    
 
 ## Resources
 
