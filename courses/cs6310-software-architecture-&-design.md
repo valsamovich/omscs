@@ -18,6 +18,7 @@
 - [P3L5 Non-Functional Reqs & Arch Styles](/courses/cs6310-software-architecture-&-design.md#p3l5-non-functional-reqs--arch-styles)
 - [P3L6 Connectors](/courses/cs6310-software-architecture-&-design.md#p3l6-connectors)
 - [P3L7 Acme](/courses/cs6310-software-architecture-&-design.md#p3l7-acme)
+- [P3L8 Refinement](/courses/cs6310-software-architecture-&-design.md#p3l7-refinement)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -517,12 +518,16 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
     - Values
 - **Families** Means of defining architectural styles
 - **Open semantic framework** Export format for use by automated resoners
-    
+
+## P3L8 Refinement
+
+- **Complexity** & **Abstraction** implies thinking at different levels 
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
 - [Virtual Machine Setup](https://www.udacity.com/wiki/saad/vm-setup)
 - [ArgoUML](http://argouml.tigris.org/)
-- [Eclipse IDE](https://www.eclipse.org/home/index.php)
 - [OO Design Review Guidelines](https://s3.amazonaws.com/content.udacity-data.com/courses/gt-cs6310/notes/gt-sad-p1l3-design-validation.txt)
 - [IEEE 1016 Working Group: Software Design Descriptions](http://www.iso-architecture.org/ieee-p1016/)
+- [ACME](http://www.cs.cmu.edu/~acme/)
