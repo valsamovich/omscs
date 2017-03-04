@@ -18,8 +18,8 @@
 - [P3L5 Non-Functional Reqs & Arch Styles](/courses/cs6310-software-architecture-&-design.md#p3l5-non-functional-reqs--arch-styles)
 - [P3L6 Connectors](/courses/cs6310-software-architecture-&-design.md#p3l6-connectors)
 - [P3L7 Acme](/courses/cs6310-software-architecture-&-design.md#p3l7-acme)
-- [P3L8 Refinement](/courses/cs6310-software-architecture-&-design.md#p3l7-refinement)
-- [P3L9 Middleware](/courses/cs6310-software-architecture-&-design.md#p3l7-middleware)
+- [P3L8 Refinement](/courses/cs6310-software-architecture-&-design.md#p3l8-refinement)
+- [P3L9 Middleware](/courses/cs6310-software-architecture-&-design.md#p3l9-middleware)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
