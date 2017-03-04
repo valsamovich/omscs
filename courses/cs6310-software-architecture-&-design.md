@@ -585,7 +585,17 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
     - Access transparency
     - Location transparency
     - Migration transparency
-    
+    - Replication Transperancy
+- **Heterogeneity**
+    - Hardware
+    - Operating Systems
+    - Programming languages
+    - Standards/protocols/APIs
+    - Access mechanisms
+    - Web browsers
+    - Devices
+    - Different versions
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
