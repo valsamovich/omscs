@@ -542,8 +542,38 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
 
 ## P3L9 Middleware
 
-    *Middleware it's a group of technologies to support: Cleint-server, Database-server, Web-Browser systems.." - Prof. Spencer Rugaber
-    
+    *Middleware it's a group of technologies to support cleint-server, database-server, Web-Browser systems.." - Prof. Spencer Rugaber
+
+**Needs**
+
+- Technologies tu spport distributes applications
+- Abstractions (e.g. REST, SOA)
+    - Interfaces (APIs) (Ajax, EJB)
+    - Standards (HTTP)
+- Tools (WebSphere, Hibernate)
+
+**Characteristic**
+
+- **Network Communication** 
+    - Error handling/reliable delivery 
+        - Synchronous and asynchronous errors
+    - Data prepresenatnion and transport
+        - Machine differences
+        - Organization of constituent pieces
+        - Self definition
+        - Standards
+    - Transactions(ACID)
+        - ACID
+            - Atomic
+            - Consistncy-preserving
+            - Isolated
+            - Durable
+        - Reliable database access
+        - Multiple readers and writers
+        - Conditionally updating a record
+- **Coordination**
+    - Syncronization
+
 
 ## Resources
 
