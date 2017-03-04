@@ -573,8 +573,19 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
         - Conditionally updating a record
 - **Coordination**
     - Syncronization
-
-
+    - Control
+    - Robustness
+    - Availability
+    - Persistence
+- **Reliability**
+    - Components of distributed system sometimes fail
+    - Failure to deliver OR multiple deliveries
+    - Classic reliability/performance tradeoff
+- **Scalability** to deal with growth in users or in load
+    - Access transparency
+    - Location transparency
+    - Migration transparency
+    
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
