@@ -522,6 +522,14 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
 ## P3L8 Refinement
 
 - **Complexity** & **Abstraction** implies thinking at different levels 
+- **Proper Refinements** 
+    - **Property 1** Holds for any program that we want to implement (Solve the problem)
+    - **Property 2** Each level in a design must be internally consistent (Test the program)
+    - **Property 3** Each lowel level in a refinement must faithfully represent the level above it
+- **Criterion**    
+    - Abequate Representation
+    - Total Representation
+    - Models
 
 ## Resources
 
