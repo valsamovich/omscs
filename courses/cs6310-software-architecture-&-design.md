@@ -19,6 +19,7 @@
 - [P3L6 Connectors](/courses/cs6310-software-architecture-&-design.md#p3l6-connectors)
 - [P3L7 Acme](/courses/cs6310-software-architecture-&-design.md#p3l7-acme)
 - [P3L8 Refinement](/courses/cs6310-software-architecture-&-design.md#p3l7-refinement)
+- [P3L9 Middleware](/courses/cs6310-software-architecture-&-design.md#p3l7-middleware)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -530,6 +531,16 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
     - Abequate Representation
     - Total Representation
     - Models
+
+**Refinement guarantee**
+
+- The top level specification matches the requirements document
+- Operations at each level preserve invariants
+- Each refinement is adequate
+- Each refinement is total
+- Concrete Operation preconditions and post conditions model their abstract counterparts 
+
+## P3L9 Middleware
 
 ## Resources
 
