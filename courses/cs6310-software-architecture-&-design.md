@@ -542,7 +542,7 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
 
 ## P3L9 Middleware
 
-    *Middleware it's a group of technologies to support cleint-server, database-server, Web-Browser systems.." - Prof. Spencer Rugaber
+    *Middleware it's a group of technologies to support cleint-server, database-server..." - Prof. Spencer Rugaber
 
 **Needs**
 
@@ -595,6 +595,15 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
     - Web browsers
     - Devices
     - Different versions
+
+**Types**
+
+- **Transactional middleware** Distributed transactions
+    - Deal with liability and acid requirements
+        - Two-phased commit
+- **Message-oriented middleware** Message passing
+- **Procedural middleware** Remote procedure call
+- **Object/component middle** Remote object requests
 
 ## Resources
 
