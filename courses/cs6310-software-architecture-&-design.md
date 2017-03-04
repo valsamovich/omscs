@@ -542,6 +542,13 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
 
 ## P3L9 Middleware
 
+**Architecture of Distributed Systems**
+
+- Multiple computers
+- Heterogeneous 
+
+**Examples**: Client-server, Database server, Client web browser, Business logic 
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
