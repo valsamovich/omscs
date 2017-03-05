@@ -602,8 +602,30 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
     - Deal with liability and acid requirements
         - Two-phased commit
 - **Message-oriented middleware** Message passing
+    - Asynchronous message passing
 - **Procedural middleware** Remote procedure call
-- **Object/component middle** Remote object requests
+    - Remote procedure call (RPC)
+    - Syncronous
+- **Object/component middleware** Remote object requests
+    - Extension of RPC
+
+## Web Services
+
+    "A software system designed to support interoperable Machine to Machine interaction over a network" - W3C
+
+## Service Oriented Architecture (SOA)
+
+- Service
+    - Self-contained, self-defined, modular application
+    - Defined and self-documented use protocol
+    - Characteristics
+        - Flexibility
+        - Meaningful
+        - Stateless
+        - Transparent with respect with middleware
+- Job responsibilities or business need of the service user
+- Comprised of a suite of sub-services
+    - Published, located, and dynamically invoked
 
 ## Resources
 
