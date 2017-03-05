@@ -627,6 +627,8 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
 - Comprised of a suite of sub-services
     - Published, located, and dynamically invoked
 
+![alt text](/images/cs6310-before-soa-after-soa.png "Before SOA - After SOA")
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
