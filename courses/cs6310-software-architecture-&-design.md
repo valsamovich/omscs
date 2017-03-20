@@ -20,6 +20,7 @@
 - [P3L7 Acme](/courses/cs6310-software-architecture-&-design.md#p3l7-acme)
 - [P3L8 Refinement](/courses/cs6310-software-architecture-&-design.md#p3l8-refinement)
 - [P3L9 Middleware](/courses/cs6310-software-architecture-&-design.md#p3l9-middleware)
+- [P4L1 Components](/courses/cs6310-software-architecture-&-design.md#p4l1-components)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -628,6 +629,10 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
     - Published, located, and dynamically invoked
 
 ![alt text](/images/cs6310-before-soa-after-soa.png "Before SOA - After SOA")
+
+## P4L1 Components
+
+
 
 ## Resources
 
