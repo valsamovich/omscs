@@ -632,7 +632,41 @@ Notes: *Connector design, Validation Rules, Atomic Elements, Linux Case Study*.
 
 ## P4L1 Components
 
+A **component** is an executable unit of independent production, acquisition, and deployment that can be composed into a functioning subsystem. - *Clemens Szyperski*
 
+- Component Life Cycle (Phases)
+    - design time
+    - deployment time
+    - runtime
+- Components Models
+    - Sun/Oracle Enterprice Beans(EJB): J(2)EE, JSP(Java Services PAges)
+    - Microsfot COM(Component Object Model): DCOM, OLE, ActiveX(web cotrols), COM+
+    - Microsoft .NET: CLI, CLR, ASP.NET
+    - COBRA Component Model (CCM): CORBA, OMG, OMA, IDL
+    - Web Services: WSDL, UDDI, SOAP
+- Issues
+    - Configuration (config file `.cfg`)
+    - Versioning (Strategy: version number, Ad hoc compatibility rules, Immutable interfaces, etc.)
+    - Extensions (new features)
+        - Singleton
+        - Parallel
+    - Callbacks (an operation provided by the client)
+        - Invariants
+    - Contract and Guarantees
+        - Syntac or signature contact
+        - Correctness Contract
+        - Collaboration Contracts
+        - Quality of Service Contracts
+    - Objects as Components
+    - (Industry) Scalling
+    - Domain Standards
+
+**Component Framework**
+
+- Shared Attributes
+    - All provide late binding, persistence, encapsulation, and sub-typing
+    - Provide support fpr communication among components
+    - Offer dome form of component transfer packaging
 
 ## Resources
 
