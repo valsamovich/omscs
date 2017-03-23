@@ -676,7 +676,10 @@ A **component** is an executable unit of independent production, acquisition, an
     - From Alaysis to Design (treat the entire system as an object)
     - System design (Architecture, Concurrency, Physical design, Control, Error handling)
     - Abstraction Mechanisms: The Vocaburary of Design
-    - 
+    - Collaboration-Based Design (akarole-based design, strict OOD, User Stories, Role abstraction)
+
+![alt text](/images/cs6310-abstraction-mechanisms.png "Abstraction Mechanisms")
+
 
 
 ## Resources
