@@ -21,6 +21,7 @@
 - [P3L8 Refinement](/courses/cs6310-software-architecture-&-design.md#p3l8-refinement)
 - [P3L9 Middleware](/courses/cs6310-software-architecture-&-design.md#p3l9-middleware)
 - [P4L1 Components](/courses/cs6310-software-architecture-&-design.md#p4l1-components)
+- [P4L3 From OOA to OOD](/courses/cs6310-software-architecture-&-design.md#p4l3-from-ooa-to-ood)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -667,6 +668,8 @@ A **component** is an executable unit of independent production, acquisition, an
     - All provide late binding, persistence, encapsulation, and sub-typing
     - Provide support fpr communication among components
     - Offer dome form of component transfer packaging
+
+## P4L3 From OOA to OOD
 
 ## Resources
 
