@@ -671,6 +671,14 @@ A **component** is an executable unit of independent production, acquisition, an
 
 ## P4L3 From OOA to OOD
 
+- **Object Oriented Design** (OOD) elements
+    - Internodal Consistency (multiple diagrams, inter model consistecny)
+    - From Alaysis to Design (treat the entire system as an object)
+    - System design (Architecture, Concurrency, Physical design, Control, Error handling)
+    - Abstraction Mechanisms: The Vocaburary of Design
+    - 
+
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
