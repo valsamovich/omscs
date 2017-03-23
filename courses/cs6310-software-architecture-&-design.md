@@ -22,6 +22,7 @@
 - [P3L9 Middleware](/courses/cs6310-software-architecture-&-design.md#p3l9-middleware)
 - [P4L1 Components](/courses/cs6310-software-architecture-&-design.md#p4l1-components)
 - [P4L3 From OOA to OOD](/courses/cs6310-software-architecture-&-design.md#p4l3-from-ooa-to-ood)
+- [P4L4 Design Patterns](/courses/cs6310-software-architecture-&-design.md#p4l4-design-patterns)
 - [Resources](/courses/cs6310-software-architecture-&-design.md#resources)
 
 ## P1L1 Introduction
@@ -721,6 +722,9 @@ A **component** is an executable unit of independent production, acquisition, an
                                              Aggegation ---> Collection Classes
                                            Invariant ---> Methods and Constructors
                                                     State ---> Enumerations
+                                                    
+## P4L4 Design Patterns
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
