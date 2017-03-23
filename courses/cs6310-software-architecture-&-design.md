@@ -715,12 +715,12 @@ A **component** is an executable unit of independent production, acquisition, an
         - Interfaces
 
 
-OOA modeling concepts with JAva concept
+**OOA modeling concepts** with **Java concept**
                                             
-                                               Generalization ---> Subclassing
-                                              Aggegation ---> Collection Classes
-                                            Invariant ---> Methods and Constructors
-                                                     State ---> Enumerations
+                                              Generalization ---> Subclassing
+                                             Aggegation ---> Collection Classes
+                                           Invariant ---> Methods and Constructors
+                                                    State ---> Enumerations
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
