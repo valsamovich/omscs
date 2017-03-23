@@ -715,7 +715,7 @@ A **component** is an executable unit of independent production, acquisition, an
         - Interfaces
 
 
-                                            OOA modeling concepts with JAva concept
+OOA modeling concepts with JAva concept
                                             
                                                Generalization ---> Subclassing
                                               Aggegation ---> Collection Classes
