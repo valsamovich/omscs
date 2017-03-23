@@ -725,6 +725,20 @@ A **component** is an executable unit of independent production, acquisition, an
                                                     
 ## P4L4 Design Patterns
 
+    "It's a description of a solution to a problem in a context." - Prof. Spencer Rugaber
+
+- It's a description of a solution to a problem in a context
+- It's a resusable design expirience
+- Derives from building architecture
+- **The Gang of Four** book
+
+**Patterns**
+
+- **Composite** (how to organize information)
+    - Client class (the 1st class is a catchall)
+    - Leaf class (abstract class)
+    - TODO: ... to be continue
+
 ## Resources
 
 - [Class Resources PAge](https://www.udacity.com/wiki/saad/resources)
