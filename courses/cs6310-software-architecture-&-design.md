@@ -671,7 +671,7 @@ A **component** is an executable unit of independent production, acquisition, an
 
 ## P4L3 From OOA to OOD
 
-- **Object Oriented Design** (OOD) elements
+- **Preliminary** topics
     - Internodal Consistency (multiple diagrams, inter model consistecny)
     - From Alaysis to Design (treat the entire system as an object)
     - System design (Architecture, Concurrency, Physical design, Control, Error handling)
@@ -680,7 +680,39 @@ A **component** is an executable unit of independent production, acquisition, an
 
 ![alt text](/images/cs6310-abstraction-mechanisms.png "Abstraction Mechanisms")
 
-
+- **Object Oriented Design** (OOD) or **Object Design** elements
+    - **Methods**
+        - It's signals from the analysis model
+        - Dynamic models
+        - Actions, activities and events
+        - Constructors, Getters, Setters, Selectors, Iterators
+    - **classes**
+        - Most of the classes come from the real world
+        - implement relationships
+        - intermediate results
+        - invent new abstract classes
+    - **Generalization**
+        - Inheritance via subclassing (add features not remove features)
+        - A single class with flags
+        - Hide child data in parent
+        - Java interfaces or enums
+        - Use State pattern for dynamic inheritance
+        - Use Multiple inheritance
+    - **Assosiations**
+        - Factors to take into account: Directionality, Cardinality, Access (CRUD)
+        - One-Way Associations (pointer in one direction)
+        - Two-Way Associations (pOinters in both directions)
+        - Associations As Object
+    - **Dependencies**
+        - Use as constructor
+        - Use as global attribute
+    - **Control**
+        - Implement form of state charts
+        - Right table drive interpreter 
+    - **Abstract Classes**
+        - Abstract methods
+        - Abstract class
+        - Interfaces
 
 ## Resources
 
