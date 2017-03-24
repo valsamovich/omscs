@@ -731,24 +731,8 @@ A **component** is an executable unit of independent production, acquisition, an
 - It's a resusable design expirience
 - Derives from building architecture
 - **The Gang of Four** book
-
-**Composite Patterns**
-
-- **Composite** (how to organize information)
-- Client class (the 1st class is a catchall)
-- Leaf class (abstract class)
-- Intent (a summary of the value provided py pattern) & Motivation (form odfa scenario)
-- Applicability and Strucutre
-- Participants 
-    - Component(Graphic)
-    - Leaf (Rectangle, Line, Text)
-    - Composite (Picture)
-    - Client(Drawing program)
-- Collaboration (how the participants work together)
-- Consequences (advantages and disadvantages of using the pattern)
     
 **Categories**
-
 
 - **Composite** pattern (how to organize information) - NOT A GROUP!
     - Client class (the 1st class is a catchall)
@@ -764,10 +748,11 @@ A **component** is an executable unit of independent production, acquisition, an
     - Consequences (advantages and disadvantages of using the pattern)
 - **Structural** gruop
 - **Creational** group
-    - **Singleton's** provide you a way to ensure that a class has only one instance 
-        - Intent
-        - Motivation
-        - Applicability
+    - **Singleton's** pattern provide you a way to ensure that a class has only one instance 
+        - Applicability: The must be only one isnstance of a class
+        - Participants: only one Sigleton
+        - Collaboarion: access the instance via class metyhod
+        - Consequences: Controled access only through a class method
     - Prototype
     - Builder
     - Factory Method
