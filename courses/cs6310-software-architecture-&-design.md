@@ -732,12 +732,47 @@ A **component** is an executable unit of independent production, acquisition, an
 - Derives from building architecture
 - **The Gang of Four** book
 
-**Patterns**
+**Composite Patterns**
 
 - **Composite** (how to organize information)
+- Client class (the 1st class is a catchall)
+- Leaf class (abstract class)
+- Intent (a summary of the value provided py pattern) & Motivation (form odfa scenario)
+- Applicability and Strucutre
+- Participants 
+    - Component(Graphic)
+    - Leaf (Rectangle, Line, Text)
+    - Composite (Picture)
+    - Client(Drawing program)
+- Collaboration (how the participants work together)
+- Consequences (advantages and disadvantages of using the pattern)
+    
+**Categories**
+
+
+- **Composite** pattern (how to organize information) - NOT A GROUP!
     - Client class (the 1st class is a catchall)
     - Leaf class (abstract class)
-    - TODO: ... to be continue
+    - Intent (a summary of the value provided py pattern) & Motivation (form odfa scenario)
+    - Applicability and Strucutre
+    - Participants 
+        - Component(Graphic)
+        - Leaf (Rectangle, Line, Text)
+        - Composite (Picture)
+        - Client(Drawing program)
+    - Collaboration (how the participants work together)
+    - Consequences (advantages and disadvantages of using the pattern)
+- **Structural** gruop
+- **Creational** group
+    - **Singleton's** provide you a way to ensure that a class has only one instance 
+        - Intent
+        - Motivation
+        - Applicability
+    - Prototype
+    - Builder
+    - Factory Method
+    - Abstract Factory
+- **Behavioral** group
 
 ## Resources
 
@@ -747,3 +782,4 @@ A **component** is an executable unit of independent production, acquisition, an
 - [OO Design Review Guidelines](https://s3.amazonaws.com/content.udacity-data.com/courses/gt-cs6310/notes/gt-sad-p1l3-design-validation.txt)
 - [IEEE 1016 Working Group: Software Design Descriptions](http://www.iso-architecture.org/ieee-p1016/)
 - [ACME](http://www.cs.cmu.edu/~acme/)
+- [Gang of Four Book](https://www.amazon.com/gp/product/0201633612/qid=1136215935/sr=8-1/ref=pd_bbs_1/104-9753716-9478358?n=507846&s=books&v=glance)
