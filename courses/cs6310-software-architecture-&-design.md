@@ -772,6 +772,16 @@ A **component** is an executable unit of independent production, acquisition, an
     - **Command** turn a request into an object: logging; undo
     - **Interpreter** represent a grammar and interpret its instances
     - **Mediator** encapsulate objec interactions
+    - **Visitor** apply a method to elements of a structure
+        - Intent is a vary the operations performed on a composite structure without modifying the structure itself
+        - Classes
+            - Visitor
+            - ConcreteVisitor
+            - Element
+            - ConcreteElement
+            - ObjectStructure
+        - Collaboration (Client creates ConcreteVissitor object and traverses ObjectStucture)
+        - Consequences (Implementations of operations on different types of Elements are collected in one place)
 
 ## Resources
 
