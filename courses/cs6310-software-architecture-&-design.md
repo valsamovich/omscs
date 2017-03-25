@@ -734,30 +734,41 @@ A **component** is an executable unit of independent production, acquisition, an
     
 **Categories**
 
-- **Composite** pattern (how to organize information) - NOT A GROUP!
-    - Client class (the 1st class is a catchall)
-    - Leaf class (abstract class)
-    - Intent (a summary of the value provided py pattern) & Motivation (form odfa scenario)
-    - Applicability and Strucutre
-    - Participants 
-        - Component(Graphic)
-        - Leaf (Rectangle, Line, Text)
-        - Composite (Picture)
-        - Client(Drawing program)
-    - Collaboration (how the participants work together)
-    - Consequences (advantages and disadvantages of using the pattern)
 - **Structural** gruop
+    - **Composite** pattern (how to organize information)
+        - Client class (the 1st class is a catchall)
+        - Leaf class (abstract class)
+        - Intent (a summary of the value provided py pattern) & Motivation (form odfa scenario)
+        - Applicability and Strucutre
+        - Participants 
+            - Component(Graphic)
+            - Leaf (Rectangle, Line, Text)
+            - Composite (Picture)
+            - Client(Drawing program)
+        - Collaboration (how the participants work together)
+        - Consequences (advantages and disadvantages of using the pattern)
+    - **Adapter** convert interface to improve interoperability
+    - **Bridge** decouple abstractions and implementation; abstract class contains member that is its implementation. Might be used in language that dont' have interfaces.
+    - **Decorator** attach additional responsibility to an objecy dynamically
+    - **Facade** higher-level interface for a subsystem; support for non-OO legacy applications
 - **Creational** group
     - **Singleton's** pattern provide you a way to ensure that a class has only one instance 
         - Applicability: The must be only one isnstance of a class
         - Participants: only one Sigleton
         - Collaboarion: access the instance via class metyhod
         - Consequences: Controled access only through a class method
+        - Implementation
+            - Define a class variable holding the instance. 
+            - Constructor (private or protected)
+        - Implementation Issues
+            - Act like global states
+            - Only one ever
     - Prototype
     - Builder
     - Factory Method
     - Abstract Factory
-- **Behavioral** group
+- **Behavioral** Most complex
+    - 
 
 ## Resources
 
