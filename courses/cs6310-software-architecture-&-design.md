@@ -734,7 +734,7 @@ A **component** is an executable unit of independent production, acquisition, an
     
 **Categories**
 
-- **Structural** gruop
+- **Structural** group
     - **Composite** pattern (how to organize information)
         - Client class (the 1st class is a catchall)
         - Leaf class (abstract class)
@@ -767,8 +767,11 @@ A **component** is an executable unit of independent production, acquisition, an
     - Builder
     - Factory Method
     - Abstract Factory
-- **Behavioral** Most complex
-    - 
+- **Behavioral** group, most complex
+    - **Chain of Responsibility** separate request frmo handler; allow multiple handlers
+    - **Command** turn a request into an object: logging; undo
+    - **Interpreter** represent a grammar and interpret its instances
+    - **Mediator** encapsulate objec interactions
 
 ## Resources
 
